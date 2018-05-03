@@ -1,8 +1,5 @@
 package in.tvac.akshayejh.firebasesearch;
 
-/**
- * Created by AkshayeJH on 15/12/17.
- */
 
 public class Users {
 
