@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
             protected void populateViewHolder(UsersViewHolder viewHolder, Users model, int position) {
 
 
-                viewHolder.setDetails(getApplicationContext(), model.getName(), model.getStatus(), model.getImage());
+                viewHolder.setDetails(getApplicationContext(), model.getName(), model.getStatus(), model.getImage(),model.getPrice());
 
             }
         };
